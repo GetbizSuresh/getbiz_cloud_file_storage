@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "getbiz_cloud_file_storage_app", "getbiz_cloud_file_storage_app.csproj", "{51B7814C-B2D4-4180-A057-5BF8FAC5888D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B7814C-B2D4-4180-A057-5BF8FAC5888D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B7814C-B2D4-4180-A057-5BF8FAC5888D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B7814C-B2D4-4180-A057-5BF8FAC5888D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B7814C-B2D4-4180-A057-5BF8FAC5888D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC76AF42-3806-4CBF-BD35-D3BB2B079140}
+	EndGlobalSection
+EndGlobal
